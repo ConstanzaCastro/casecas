@@ -1,0 +1,3 @@
+{
+    "pluggins":["@babel/pluggin-transformm-modules-commonjs"]
+}
